@@ -25,7 +25,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: academic.css
     toc: false
     lang: en
     anchor-sections: false
