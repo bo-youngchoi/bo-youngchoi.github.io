@@ -1,0 +1,69 @@
+---
+title: "Research"
+---
+
+International trade · Industrial organization
+
+## Selected publications
+
+{{< include _selected.qmd >}}
+
+## Further publications
+
+::: {.paper}
+### The Global Financial Crisis and Protectionism: Substitution from Tariffs to Non-tariff Measures
+
+With Inae Heo  
+*Bulletin of Economic Research*, 75(4), 880–894, 2023.
+:::
+
+::: {.paper}
+### Industry FDI and the Distribution of Plant Productivity: Analysis Using Korean Panel-level Data
+
+With Ju Hyun Pyun  
+*The Developing Economies*, 55(2), 105–129, 2017.
+:::
+
+::: {.paper}
+### Globalization, Ownership and the Effects of Trade Liberalization in Chinese Import Prices
+
+With Deborah Swenson  
+*Asia-Pacific Journal of Accounting and Economics*, 22(3), 271–290, 2015.
+:::
+
+## Working papers
+
+::: {.paper}
+### Buyer Power and Pass-through of Tariff Cuts
+
+:::
+
+::: {.paper}
+### The Effect of Exchange Rate Volatility on Productivity of Korean Manufacturing Plants: Market Average Exchange Rate Regime vs. Free Floating
+
+With Ju Hyun Pyun.
+:::
+
+::: {.paper}
+### Breaking Away from the Ruble: Unveiling the Trade Impact of Currency Changes in the CIS
+
+With Isloil Ismoilov.
+:::
+
+::: {.paper}
+### When Do Mutual Recognition Agreements Promote Trade?: Evidence from Two-Phase MRAs
+
+With Inae Heo.
+:::
+
+::: {.paper}
+### Beyond Tariffs: The Trade Restrictiveness of U.S. Non-Tariff Measures on China during the Trade War
+
+With Qian Liu.
+:::
+
+## Work in progress
+
+Asymmetric Pass-through and the Persistence of Shocks
+
+[Full publication record in the CV →](cv.qmd)

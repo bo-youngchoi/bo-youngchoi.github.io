@@ -1,0 +1,32 @@
+---
+title: "Bo-Young Choi"
+pagetitle: "Bo-Young Choi | Economics & Trade"
+title-block-style: none
+---
+
+::: {.profile}
+::: {.profile-mark aria-label="Bo-Young Choi initials"}
+BC
+:::
+::: {.profile-copy}
+[ECONOMICS & TRADE]{.eyebrow}
+
+# Bo-Young Choi
+
+[Associate Professor]{.position}  
+School of Economics & Trade  
+Kyungpook National University
+
+[bychoi2@knu.ac.kr](mailto:bychoi2@knu.ac.kr) · [Curriculum vitae](cv.qmd)
+:::
+:::
+
+I am an Associate Professor in the School of Economics & Trade at Kyungpook National University. My primary research field is international trade, with a secondary field in industrial organization.
+
+My work examines trade policy, exchange rates, foreign direct investment, and firm productivity. I received my Ph.D. in Economics from the University of California, Davis in 2013.
+
+## Selected research
+
+{{< include _selected.qmd >}}
+
+[More research →](research.qmd){.more-link}

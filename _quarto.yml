@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+website:
+  title: "Bo-Young Choi"
+  site-url: https://bo-youngchoi.github.io
+  description: "Bo-Young Choi, Associate Professor of Economics and Trade at Kyungpook National University."
+  search: false
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+  page-footer:
+    left: "Bo-Young Choi · Kyungpook National University"
+    right: "Economics & Trade"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    lang: en
+    anchor-sections: false
+    title-block-banner: false
