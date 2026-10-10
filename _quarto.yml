@@ -10,7 +10,7 @@ website:
   search: false
   navbar:
     background: light
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: research.qmd

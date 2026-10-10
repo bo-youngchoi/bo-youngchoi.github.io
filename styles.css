@@ -1,4 +1,5 @@
 body { color: #252a2d; background: #fff; font-family: Georgia, "Times New Roman", serif; font-size: 17px; line-height: 1.7; }
+body:has(.profile) #title-block-header { display: none; }
 .navbar { border-bottom: 1px solid #e5e7e7; padding: 20px 0; background: #fff !important; font-family: Arial, sans-serif; }
 .navbar-brand { font-size: 18px; font-weight: 600; letter-spacing: -.3px; }
 .navbar-nav { gap: 20px; } .nav-link { font-size: 14px; }
