@@ -5,9 +5,7 @@ title-block-style: none
 ---
 
 ::: {.profile}
-::: {.profile-mark aria-label="Bo-Young Choi initials"}
-BC
-:::
+![](profile.jpg){.profile-photo fig-alt="Bo-Young Choi" width=112 height=144}
 ::: {.profile-copy}
 [ECONOMICS & TRADE]{.eyebrow}
 

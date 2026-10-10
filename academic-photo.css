@@ -1,0 +1,31 @@
+body { color: #252a2d; background: #fff; font-family: Georgia, "Times New Roman", serif; font-size: 17px; line-height: 1.7; }
+body:has(.profile) #title-block-header { display: none; }
+.profile-photo { width: 112px; height: 144px; object-fit: cover; display: block; }
+.profile > p { flex-shrink: 0; margin: 0; }
+@media(max-width:600px) { .profile-photo { width: 76px; height: 98px; } }
+.navbar { border-bottom: 1px solid #e5e7e7; padding: 20px 0; background: #fff !important; font-family: Arial, sans-serif; }
+.navbar-brand { font-size: 18px; font-weight: 600; letter-spacing: -.3px; }
+.navbar-nav { gap: 20px; } .nav-link { font-size: 14px; }
+.nav-link.active { color: #245c60 !important; }
+#quarto-content { max-width: 1080px; margin: auto; }
+main.content { padding-top: 58px; padding-bottom: 65px; max-width: 800px; }
+h1,h2,h3 { font-family: Georgia, "Times New Roman", serif; font-weight: 400; }
+h1 { font-size: 43px; letter-spacing: -1.2px; margin-bottom: 26px; }
+h2 { font-size: 25px; margin-top: 44px; padding-bottom: 12px; border-bottom: 1px solid #dedfdf; }
+h3 { font-size: 19px; line-height: 1.5; margin-top: 0; margin-bottom: 8px; }
+a { color: #245c60; text-decoration: none; } a:hover { text-decoration: underline; }
+a:focus-visible { outline: 2px solid #245c60; outline-offset: 4px; }
+.profile { display: flex; gap: 30px; align-items: center; margin-bottom: 38px; }
+.profile-mark { width: 112px; height: 136px; flex-shrink: 0; background: #edf0ec; color: #66776d; display: flex; align-items: center; justify-content: center; font-size: 30px; }
+.profile-copy h1 { margin: 10px 0 14px; } .profile-copy p { margin-bottom: 10px; }
+.eyebrow { font: 11px Arial,sans-serif; letter-spacing: 2px; color: #6c7777; }
+.position { font-weight: bold; } .profile-copy { font-size: 16px; }
+.paper { margin: 24px 0; padding-bottom: 22px; border-bottom: 1px solid #eceeee; }
+.paper p { font-size: 15px; color: #5f6567; margin-bottom: 0; }
+.more-link { font: 14px Arial,sans-serif; }
+.nav-footer { border-top: 1px solid #e5e7e7; font: 12px Arial,sans-serif; color: #777; }
+table { font-size: 15px; } td,th { padding: 14px 8px !important; }
+@media(max-width:600px) { main.content { padding: 30px 10px 40px; } h1 {font-size: 35px;} .profile {gap:20px;align-items:flex-start;} .profile-mark {width:76px;height:96px;font-size:24px;} .profile-copy {font-size:14px;} .profile-copy h1 {font-size:31px;} .eyebrow {font-size:9px;} }
+@media print { .navbar,.nav-footer,.print-cv {display:none !important;} main.content {padding:0;max-width:none;} body {font-size:11pt;} a {color:inherit;} }
+
+.print-cv {border:1px solid #ced7d4;background:#fff;color:#245c60;padding:8px 14px;font:14px Arial,sans-serif;cursor:pointer;} .cv-note {font-size:13px;color:#707777;margin-top:40px;}
