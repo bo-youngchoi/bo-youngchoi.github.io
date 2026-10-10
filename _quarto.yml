@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - google3e5335c4b043b3b2.html
   render:
     - "*.qmd"
 website:
