@@ -8,7 +8,7 @@ title-block-style: none
 ![](profile.jpg){.profile-photo fig-alt="Bo-Young Choi" width=112 height=144}
 
 ::: {.profile-copy}
-[ECONOMICS & TRADE]{.eyebrow}
+
 
 # Bo-Young Choi
 
