@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - google3e5335c4b043b3b2.html
+    - Bo_Young_Choi_CV.pdf
   render:
     - "*.qmd"
 website:

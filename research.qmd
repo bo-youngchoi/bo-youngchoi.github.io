@@ -11,23 +11,23 @@ International trade · Industrial organization
 ## Further publications
 
 ::: {.paper}
-### The Global Financial Crisis and Protectionism: Substitution from Tariffs to Non-tariff Measures
+### [The Global Financial Crisis and Protectionism: Substitution from Tariffs to Non-tariff Measures](https://doi.org/10.1111/boer.12386)
 
-With Inae Heo  
+With Inae Heo\
 *Bulletin of Economic Research*, 75(4), 880–894, 2023.
 :::
 
 ::: {.paper}
-### Industry FDI and the Distribution of Plant Productivity: Analysis Using Korean Panel-level Data
+### [Industry FDI and the Distribution of Plant Productivity: Analysis Using Korean Plant-Level Data](https://doi.org/10.1111/deve.12127)
 
-With Ju Hyun Pyun  
+With Ju Hyun Pyun\
 *The Developing Economies*, 55(2), 105–129, 2017.
 :::
 
 ::: {.paper}
-### Globalization, Ownership and the Effects of Trade Liberalization in Chinese Import Prices
+### [Globalization, Ownership and the Effects of Trade Liberalization on Chinese Import Prices](https://doi.org/10.1080/16081625.2015.1057950)
 
-With Deborah Swenson  
+With Deborah Swenson\
 *Asia-Pacific Journal of Accounting and Economics*, 22(3), 271–290, 2015.
 :::
 

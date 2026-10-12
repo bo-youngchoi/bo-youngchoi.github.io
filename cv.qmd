@@ -1,12 +1,26 @@
 ---
 title: "Curriculum vitae"
+format:
+  html:
+    css: [academic-photo.css, cv.css]
+    body-classes: cv-page
 ---
 
-**Bo-Young Choi**  
-School of Economics & Trade, Kyungpook National University  
-[bychoi2@knu.ac.kr](mailto:bychoi2@knu.ac.kr)
+::: {.cv-header}
+::: {.cv-identity}
+[Bo-Young Choi]{.cv-name}
 
-<button class="print-cv" onclick="window.print()">Print / save as PDF</button>
+School of Economics & Trade\
+Kyungpook National University\
+[bychoi2@knu.ac.kr](mailto:bychoi2@knu.ac.kr)
+:::
+
+[Download CV (PDF)](Bo_Young_Choi_CV.pdf){.cv-download download="Bo_Young_Choi_CV.pdf"}
+:::
+
+::: {.cv-jump}
+[Education](#education) · [Appointments](#academic-and-research-appointments) · [Publications](#publications) · [Working papers](#working-papers) · [Service](#editorial-and-professional-service)
+:::
 
 ## Education
 
@@ -31,20 +45,6 @@ International Trade (primary); Industrial Organization (secondary).
 | September–December 2016 | Instructor, Department of International Economics and Trade, Sunmoon University |
 | June–August 2013 | Instructor, Department of Economics, University of California, Davis |
 
-## Editorial and professional service
-
-| Period | Role |
-|:---|:---|
-| January 2026–present | Editorial Board Member, Korea Trade Review |
-| February 2024–present | Editorial Board Member, Korea Review of Applied Economics |
-| January 2018–present | Editorial Board Member, Journal of International Trade and Industry Studies |
-| January–December 2023 | Editorial Board Member, Journal of International Area Studies |
-| March–June 2026 | Vice Secretary, Faculty Assembly, Kyungpook National University |
-| March 2026–present | Group Leader, 4th BK21 Project, Department of International Trade, Kyungpook National University |
-| August 2021–July 2022 | Graduate Chair, Department of International Trade, Kyungpook National University |
-| June 2021–June 2023 | Performance Evaluation Committee, Daegu Metropolitan City |
-| October 2022–September 2024 | Price Monitoring Committee, Gyeongsangbuk-do |
-
 ## Awards and grants
 
 - September 2025: Kyungpook National University Research Fund.
@@ -53,6 +53,91 @@ International Trade (primary); Industrial Organization (secondary).
 - October 2016: ERIA Microdata Research Project, with Jaehan Cho.
 - September 2015 and October 2014: ERIA Microdata Research Project, with Ju Hyun Pyun.
 - September 2009–June 2013: Nonresident Tuition Fellowship, University of California, Davis.
+
+## Publications
+
+::: {.cv-publications}
+
+### SSCI indexed journals
+
+1. [Trade diversion effects of the US–China trade war on Vietnam](https://doi.org/10.1111/1468-0106.12435)\
+   (with Thuy Linh Nguyen). *Pacific Economic Review*, 28(4), 570–588, 2023.
+
+1. [The Global Financial Crisis and Protectionism: Substitution from Tariffs to Non-tariff Measures](https://doi.org/10.1111/boer.12386)\
+   (with Inae Heo). *Bulletin of Economic Research*, 75(4), 880–894, 2023.
+
+1. [The Effect of Intra-firm Linkages on Firm Productivity](https://doi.org/10.1111/roie.12647)\
+   (with Jaehan Cho). *Review of International Economics*, 31(3), 886–903, 2023.
+
+1. [Does Real Exchange Rate Depreciation Increase Productivity? Analysis Using Korean Firm-Level Data](https://doi.org/10.1111/twec.12532)\
+   (with Ju Hyun Pyun). *The World Economy*, 41(2), 604–633, 2018.
+
+1. [Industry FDI and the Distribution of Plant Productivity: Analysis Using Korean Plant-Level Data](https://doi.org/10.1111/deve.12127)\
+   (with Ju Hyun Pyun). *The Developing Economies*, 55(2), 105–129, 2017.
+
+1. [Globalization, Ownership and the Effects of Trade Liberalization on Chinese Import Prices](https://doi.org/10.1080/16081625.2015.1057950)\
+   (with Deborah Swenson). *Asia-Pacific Journal of Accounting and Economics*, 22(3), 271–290, 2015.
+
+### Scopus indexed journals
+
+1. [Unraveling the Impact of Russian Sanctions and Oil Prices on Exchange Rate: A Comparative Approach](https://doi.org/10.1057/s41294-025-00258-0)\
+   (with Kotbee Shin and Indira Shamsutdinova). *Comparative Economic Studies*, 67(4), 723–749, 2025.
+
+1. [The Impact of Chinese Economic Structural Changes on Korea's Exports to China](https://doi.org/10.1080/10168737.2022.2091634)\
+   (with Kotbee Shin). *International Economic Journal*, 36(3), 382–401, 2022.
+
+### KCI indexed journals
+
+1. [The Impact of COVID-19 and GVC linkages on the Performance of Korean Firms](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003327151)\
+   *Journal of International Trade and Industry Studies*, 31(1), 27–45, 2026. (In Korean.)
+
+1. [Regulatory Similarity Between APEC Members and its Impact on Trade](https://doi.org/10.52595/jas.17.2.21)\
+   (with Inae Heo). *Journal of APEC Studies*, 17(2), 21–38, 2025.
+
+1. [The Impact of Economic Policy Uncertainty on South Korea's Exports](https://doi.org/10.22659/KTRA.2025.50.2.225)\
+   (with Kotbee Shin). *Korea Trade Review*, 50(2), 225–244, 2025. (In Korean.)
+
+1. [The Impact of the Global Financial Crisis on Product Compositions of Plants](https://doi.org/10.23030/katis.2023.28.4.005)\
+   (with Jaehan Cho). *Journal of International Trade and Industry Studies*, 28(4), 97–114, 2023. (In Korean.)
+
+1. [Financial Services Trade Determinants Analysis and Implications: Focusing on the China's Financial Opening](https://doi.org/10.38162/jome.50.2.4)\
+   (with Yongmin Kim). *Journal of Market Economy*, 50(2), 69–94, 2021. (In Korean.)
+
+1. [Analysis of TBTs in the Electronic Industry of RCEP Members](https://doi.org/10.23030/katis.2021.26.1.001)\
+   (with Siha Kim). *Journal of International Trade and Industry Studies*, 26(1), 1–25, 2021. (In Korean.)
+
+1. [Analysis of Korea-US FTA Utilization by Firm Size](https://doi.org/10.38162/jome.49.2.4)\
+   (with Mee Jin Cho). *Journal of Market Economy*, 49(2), 83–113, 2020. (In Korean.)
+
+1. [The Effect of Export Fixed Cost on SME Exports](https://doi.org/10.29143/kuifg.2020.6.1.21)\
+   *Future Growth Studies*, 6(1), 21–34, 2020.
+
+1. [Determinants of Trade in Services of Korea, China and Japan](https://doi.org/10.22659/KTRA.2019.44.6.23)\
+   (with Ho-Kyung Bang). *Korea Trade Review*, 44(6), 23–37, 2019. (In Korean.)
+
+1. [Determinants of Trade in Consumer Goods in East Asia](https://doi.org/10.23030/katis.2019.24.4.002)\
+   *Journal of International Trade and Industry Studies*, 24(4), 27–47, 2019. (In Korean.)
+
+1. [The Analysis on the Use of Korea-India CEPA](https://doi.org/10.23030/katis.2019.24.2.003)\
+   (with Mee Jin Cho). *Journal of International Trade and Industry Studies*, 24(2), 51–75, 2019. (In Korean.)
+
+1. [The Effect of TBT on International Trade in AfT Recipient Countries](https://doi.org/10.32580/idcr.2018.10.3.85)\
+   (with Yong Joon Jang). *International Development and Cooperation Review*, 10(3), 85–112, 2018. (In Korean.)
+
+1. [The Impact of FTA on imports from RCEP](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002293415)\
+   (with Mee Jin Cho). *Journal of International Trade and Industry Studies*, 22(4), 53–78, 2017. (In Korean.)
+
+1. [The Impact of Regulatory Measures of CJK on International Trade](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002127328)\
+   *The Journal of Northeast Asian Economic Studies*, 28(2), 39–67, 2016. (In Korean.)
+
+1. [Facilitating Trade in the Greater Tumen Region: An empirical study](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002039438)\
+   (with Ho-kyung Bang). *The Journal of Northeast Asian Economic Studies*, 27(3), 163–199, 2015. (In Korean.)
+
+:::
+
+## Book chapter
+
+[Towards Deeper Integration Among China, Japan and Korea](https://doi.org/10.1007/978-981-13-7036-6_16) (with Seo Young Lee). Chapter 16 in Hosoe, M., Ju, B.-G., Yakita, A., and Hong, K. (eds.), *Contemporary Issues in Applied Economics*, Springer, pp. 281–309, 2019.
 
 ## Working papers
 
@@ -66,55 +151,19 @@ International Trade (primary); Industrial Organization (secondary).
 
 “Asymmetric Pass-through and the Persistence of Shocks.”
 
-## Publications
+## Editorial and professional service
 
-- “Trade diversion effects of the US–China trade war on Vietnam” (with Thuy Linh Nguyen): Pacific Economic Review (SSCI), vol. 28, no.4, pp.570-588, 2023
-
-- “The Global Financial Crisis and Protectionism: Substitution from Tariffs to Non-tariff Measures” (with Inae Heo): Bulletin of Economic Research (SSCI), vol. 75, no.4, pp.880-894, 2023
-
-- “The Effect of Intra-firm Linkages on Firm Productivity” (with Jaehan Cho): Review of International Economics (SSCI), vol.31, no.3, pp.886-903, 2023
-
-- “Does Real Exchange Rate Depreciation Increase Firm Productivity?: Analysis with Korean Firm Level Data” (with Ju Hyun Pyun): The World Economy (SSCI), vol.41, no.2, pp.604-633, 2018
-
-- “Industry FDI and the Distribution of Plant Productivity: Analysis Using Korean Panel-level Data” (with Ju Hyun Pyun): The Developing Economies (SSCI), vol.55, no.2, pp.105-129, 2017.
-
-- “Globalization, Ownership and the Effects of Trade Liberalization in Chinese Import Prices” (with Deborah Swenson), Asia-Pacific Journal of Accounting and Economics (SSCI), vol. 22, no. 3, pp. 271-290, 2015.
-
-- “Unraveling the Impact of Russian Sanctions and Oil Prices on Exchange Rate: A Comparative Approach” (with Indira Shamsutdinova and Kotbee Shin), Comparative Economic Studies, forthcoming
-
-- “The Impact of Chinese Economic Structural Changes on Korea’s Export to China” (with Kotbee Shin), International Economic Journal (Scopus), vol.36, no.3, pp.382-401, 2022
-
-- “Regulatory Similarity Between APEC Members and its Impact on Trade” (with Inae Heo), Journal of APEC Studies (KCI), vol.17, no.2, pp.21-38. 2025.
-
-- “The Impact of Economic Policy Uncertainty on South Korea's Exports” (with Kotbee Shin), Korea Trade Review , vol. 50, no. 2, pp. 225-244. 2025.
-
-- "The Impact of the Global Financial Crisis on Product Compositions of Plants" (with Jaehan Cho, written in Korean) Journal of International Trade and Industry Studies , vol.29, no.4, pp.97-113, 2023
-
-- “Financial Services Trade Determinants Analysis and Implications: Focusing on the China’s Financial Opening” (with Yongmin Kim, written in Korean) Journal of Market Economy , vol. 50, no.2, pp.69-94, 2021.
-
-- “Analysis of TBTs in Electronic Industry of RCEP Members”(with Siha Kim, written in Korean) Journal of International Trade and Industry Studies , vol. 26, no.1, pp.1-25, 2021.
-
-- “ Analysis of Korea-US FTA Utilization by Firm Size” (with Mee Jin Cho, written in Korean): Journal of Market Economy , vol. 49, no.2, pp.83-113, 2020
-
-- “The Effect of Export Fixed Cost on SME Exports” Future Growth Studies , vol. 6, no.1, pp.21-34, 2020
-
-- “Determinants of Trade in Services of Korea, China and Japan”(with Ho-Kyung Bang, written in Korean)” Korea Trade Review , vol. 44, no.6, pp.23-37, 2019
-
-- “Determinants of Trade in Consumer Goods in East Asia”(written in Korean)” Journal of International Trade and Industry Studies , vol. 24, no.4, pp.27-47, 2019.
-
-- “The Analysis on the Use of Korea-India CEPA” (with Mee Jin Cho, written in Korean), Journal of International Trade and Industry Studies , vol. 24, no.2, pp.51-75, 2019.
-
-- “The Effect of TBT on International Trade in AfT Recipient Countries” (with Yong Joon Jang, written in Korean), International Development and Cooperation Review , vol. 10, no. 3, pp.85-112, 2018.
-
-- “The Impact of FTA on imports from RCEP”(with Mee Jin Cho, written in Korean), Journal of International Trade and Industry Studies , vol. 22, no.4, pp.79-114, 2017.
-
-- “The Impact of Regulatory Measures of CJK on International Trade”(written in Korean), The Journal of Northeast Asian Economic Studies, vol. 28, no.2, pp.39-67, 2016.
-
-- “Facilitating Trade in the Greater Tumen Region: An empirical study”(with Ho-kyung Bang, written in Korean), The Journal of Northeast Asian Economic Studies, vol. 27, no.3, pp.163-199, 2015.
-
-## Book chapter
-
-“Towards Deeper Integration Among China, Japan and Korea,” Chapter 16 in Hosoe, M., Ju, B.-G., Yakita, A., and Hong, K. (eds.), *Contemporary Issues in Applied Economics*, Springer, 2019.
+| Period | Role |
+|:---|:---|
+| January 2026–present | Editorial Board Member, Korea Trade Review |
+| February 2024–present | Editorial Board Member, Korea Review of Applied Economics |
+| January 2018–present | Editorial Board Member, Journal of International Trade and Industry Studies |
+| January–December 2023 | Editorial Board Member, Journal of International Area Studies |
+| March–June 2026 | Vice Secretary, Faculty Assembly, Kyungpook National University |
+| March 2026–present | Group Leader, 4th BK21 Project, Department of International Trade, Kyungpook National University |
+| August 2021–July 2022 | Graduate Chair, Department of International Trade, Kyungpook National University |
+| June 2021–June 2023 | Performance Evaluation Committee, Daegu Metropolitan City |
+| October 2022–September 2024 | Price Monitoring Committee, Gyeongsangbuk-do |
 
 ## Referee experience
 
