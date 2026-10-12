@@ -1,4 +1,11 @@
 ::: {.paper}
+### [Unraveling the Impact of Russian Sanctions and Oil Prices on Exchange Rate: A Comparative Approach](https://doi.org/10.1057/s41294-025-00258-0)
+
+With Kotbee Shin and Indira Shamsutdinova\
+*Comparative Economic Studies*, 67(4), 723–749, 2025.
+:::
+
+::: {.paper}
 ### [Trade diversion effects of the US–China trade war on Vietnam](https://doi.org/10.1111/1468-0106.12435)
 
 With Thuy Linh Nguyen\
@@ -13,16 +20,8 @@ With Jaehan Cho\
 :::
 
 ::: {.paper}
-### [Unraveling the Impact of Russian Sanctions and Oil Prices on Exchange Rate: A Comparative Approach](https://doi.org/10.1057/s41294-025-00258-0)
-
-With Kotbee Shin and Indira Shamsutdinova\
-*Comparative Economic Studies*, 67(4), 723–749, 2025.
-:::
-
-::: {.paper}
 ### [Does Real Exchange Rate Depreciation Increase Productivity? Analysis Using Korean Firm-Level Data](https://doi.org/10.1111/twec.12532)
 
 With Ju Hyun Pyun\
 *The World Economy*, 41(2), 604–633, 2018.
 :::
-
